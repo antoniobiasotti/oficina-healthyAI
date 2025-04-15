@@ -18,3 +18,8 @@ A rede neural profunda consegue ser treinada em tempo real, sem supervisão.
 ### IoT
 
 Outra tecnologia emergente; dispositivos com microprocessadores e sensores, para captar os dados, processá-los e armazená-los.
+
+### Ferramentas
+
+- PyTorch
+- Scikit-learn (sklearn)
